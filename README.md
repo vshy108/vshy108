@@ -54,4 +54,4 @@ Reliability  Toxiproxy · Pumba · stress-ng · k6
 
 ---
 
-*Contact: [LinkedIn](https://linkedin.com/in/ho-peng-hou) · ho.penghou@gmail.com*
+*Contact: [LinkedIn](https://linkedin.com/in/ho-peng-hou) · hopenghou@gmail.com*
